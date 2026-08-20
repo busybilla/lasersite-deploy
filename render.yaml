@@ -42,7 +42,7 @@ services:
       # without the consent, the soak window or the signature check.
       #
       # x-release-please-version — the release workflow rewrites this line.
-      url: registry.lasersite.ai/app:0.1.53
+      url: registry.lasersite.ai/app:0.1.54
       # Your licence, stored once in your Render workspace. Workspace Settings →
       # Registry Credentials → Add, then name it exactly "lasersite".
       creds:
